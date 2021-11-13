@@ -1,0 +1,18 @@
+{
+    "name": "be.eloistree.miditokeyboardactiondemo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b8d9baea61fd4ef49b93a5a1098d3b43",
+        "GUID:dc4228434e239b548bcf2f7ee999c4f4",
+        ""
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

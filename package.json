@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.miditokeyboardactiondemo",                              
+  "displayName": "2021_11_13_MidiToKeyboardActionDemo",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Simple demo of two of my package: Keystroke and Midi Reader",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2021_11_13_MidiToKeyboardActionDemo.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
